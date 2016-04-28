@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-"# jSiteGen" 
+# CakePHP Framework
 =======
-# pagegen
-Multi threaded Java Scraper which can generate page from online content
->>>>>>> 7df5c924e6aa82fd64f70f59bf24dcebb5884716
+is a rapid development framework for PHP which
+uses commonly known design patterns like Associative Data
+Mapping, Front Controller, and MVC.  Our primary goal is to provide a structured
+framework that enables PHP users at all levels to rapidly develop robust web
+applications, without any loss to flexibility.
