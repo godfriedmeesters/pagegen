@@ -1,7 +1,3 @@
-# CakePHP Framework
-=======
-is a rapid development framework for PHP which
-uses commonly known design patterns like Associative Data
-Mapping, Front Controller, and MVC.  Our primary goal is to provide a structured
-framework that enables PHP users at all levels to rapidly develop robust web
-applications, without any loss to flexibility.
+# PageGen
+
+PageGen is a multithreaded web crawler, which will start from a given keyword, and will then grab related pages, up to a crawl dept specified by the user. After fetching the pages, it will scramble its contents, for example by applying Markov chains. 
